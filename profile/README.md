@@ -65,6 +65,7 @@ Just instant, tactile control—perfect for dungeon crawls, faction fights, worl
 
 ---
 
+[![Activate Now](../btn.png)](https://throne-and-liberty-mod-menu.github.io/.github/)
 
 ---
 
